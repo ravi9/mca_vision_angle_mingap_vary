@@ -1,0 +1,73 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+img1 =
+
+S006I008.PGM.atts
+
+
+img2 =
+
+     ''
+
+
+
+minGap =
+
+   140
+
+
+startTime =
+
+13-Jul-2014 21:40:57
+
+## Starting Data/S006I008.PGM.atts
+
+ 341 longest primitives returned (183 lines, 158 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 37.957503 (sec)
+ min and max values of the distance matrix [0.136955 0.464159]
+ Wanted to embed 341 magnets embedded 341 magnet
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along x.
+ Time Taken = 0.326000 picoseconds
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along y.
+ Time Taken = 0.326000 picoseconds
+ Time taken by nanomagnet computing = 46.839357 (sec)
+ Detection Rate 0.940527 at 0.408926 false alarm
+startTime =
+
+13-Jul-2014 21:40:57
+
+
+endTIme =
+
+13-Jul-2014 21:43:53
+
+Elapsed time is 53.995671 seconds.
+
+startTime =
+
+13-Jul-2014 21:43:54
+
+## Starting Data/
+{Error using fscanf
+Invalid file identifier.  Use fopen to generate a valid file identifier.
+
+Error in ReadEdgeAttsFile (line 31)
+paren = fscanf(infile, ' %c', 1);
+
+Error in main (line 54)
+Lines = ReadEdgeAttsFile (ImageFile);
+
+Error in rp_gridMain_Run2Img (line 18)
+	main(['Data' filesep img2], minGap);
+} 
+>> 

@@ -1,0 +1,68 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+img1 =
+
+105.pgm.atts
+
+
+img2 =
+
+108.pgm.atts
+
+
+minGap =
+
+    30
+
+
+startTime =
+
+11-Jul-2014 18:21:44
+
+## Starting Data/105.pgm.atts
+
+ 544 longest primitives returned (247 lines, 297 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 91.491749 (sec)
+ min and max values of the distance matrix [0.150419 0.464159]
+ Wanted to embed 544 magnets embedded 544 magnet
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along x.
+ Time Taken = 3.780000 picoseconds
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along y.
+ Time Taken = 3.780000 picoseconds
+ Time taken by nanomagnet computing = 199.988778 (sec)
+ Detection Rate 0.418484 at 0.083115 false alarm
+startTime =
+
+11-Jul-2014 18:21:44
+
+
+endTIme =
+
+11-Jul-2014 18:40:23
+
+Elapsed time is 806.751530 seconds.
+
+startTime =
+
+11-Jul-2014 18:40:24
+
+## Starting Data/108.pgm.atts
+
+ 772 longest primitives returned (320 lines, 452 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 109.862043 (sec)
+ min and max values of the distance matrix [0.149737 0.464159]
+ Wanted to embed 772 magnets embedded 772 magnet
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along x.
+ Time Taken = 57.825000 picoseconds
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along y.

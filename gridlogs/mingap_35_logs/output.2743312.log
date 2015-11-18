@@ -1,0 +1,83 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+img1 =
+
+202.pgm.atts
+
+
+img2 =
+
+203.pgm.atts
+
+
+minGap =
+
+    35
+
+
+startTime =
+
+13-Jul-2014 19:13:18
+
+## Starting Data/202.pgm.atts
+
+ 902 longest primitives returned (309 lines, 593 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 243.436272 (sec)
+ min and max values of the distance matrix [0.155933 0.464159]
+ Wanted to embed 902 magnets embedded 902 magnet
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along x.
+ Time Taken = 6.526000 picoseconds
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along y.
+ Time Taken = 6.526000 picoseconds
+ Time taken by nanomagnet computing = 2.288000 (sec)
+ Detection Rate 0.345345 at 0.094459 false alarm
+startTime =
+
+13-Jul-2014 19:13:18
+
+
+endTIme =
+
+13-Jul-2014 19:34:48
+
+Elapsed time is 467.571785 seconds.
+
+startTime =
+
+13-Jul-2014 19:34:48
+
+## Starting Data/203.pgm.atts
+
+ 627 longest primitives returned (226 lines, 401 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 67.786976 (sec)
+ min and max values of the distance matrix [0.151875 0.464159]
+ Wanted to embed 627 magnets embedded 627 magnet
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along x.
+ Time Taken = 61.707000 picoseconds
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along y.
+ Time Taken = 61.707000 picoseconds
+ Time taken by nanomagnet computing = 0.843298 (sec)
+ Detection Rate 0.373890 at 0.092907 false alarm
+startTime =
+
+13-Jul-2014 19:34:48
+
+
+endTIme =
+
+13-Jul-2014 19:53:43
+
+Elapsed time is 784.804312 seconds.
+>> [Warning: Objects of graph2d.lineseries class exist - not clearing this class
+or any of its superclasses] 

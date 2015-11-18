@@ -1,0 +1,83 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+img1 =
+
+S005I00C.PGM.atts
+
+
+img2 =
+
+S006I008.PGM.atts
+
+
+minGap =
+
+    80
+
+
+startTime =
+
+12-Jul-2014 19:41:39
+
+## Starting Data/S005I00C.PGM.atts
+
+ 455 longest primitives returned (255 lines, 200 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 127.740632 (sec)
+ min and max values of the distance matrix [0.159123 0.464159]
+ Wanted to embed 455 magnets embedded 455 magnet
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along x.
+ Time Taken = 0.414000 picoseconds
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along y.
+ Time Taken = 0.414000 picoseconds
+ Time taken by nanomagnet computing = 0.426634 (sec)
+ Detection Rate 0.668445 at 0.564456 false alarm
+startTime =
+
+12-Jul-2014 19:41:39
+
+
+endTIme =
+
+12-Jul-2014 19:46:27
+
+Elapsed time is 11.799347 seconds.
+
+startTime =
+
+12-Jul-2014 19:46:27
+
+## Starting Data/S006I008.PGM.atts
+
+ 341 longest primitives returned (183 lines, 158 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 26.019077 (sec)
+ min and max values of the distance matrix [0.136955 0.464159]
+ Wanted to embed 341 magnets embedded 341 magnet
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along x.
+ Time Taken = 0.413000 picoseconds
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along y.
+ Time Taken = 0.413000 picoseconds
+ Time taken by nanomagnet computing = 0.209953 (sec)
+ Detection Rate 0.731272 at 0.418825 false alarm
+startTime =
+
+12-Jul-2014 19:46:27
+
+
+endTIme =
+
+12-Jul-2014 19:48:24
+
+Elapsed time is 5.378610 seconds.
+>> [Warning: Objects of graph2d.lineseries class exist - not clearing this class
+or any of its superclasses] 

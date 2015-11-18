@@ -1,0 +1,38 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+img1 =
+
+police.pgm.atts
+
+
+img2 =
+
+redbirdofparadise.pgm.atts
+
+
+minGap =
+
+    35
+
+
+startTime =
+
+13-Jul-2014 19:23:31
+
+## Starting Data/police.pgm.atts
+
+ 1037 longest primitives returned (435 lines, 602 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 369.964276 (sec)
+ min and max values of the distance matrix [0.151839 0.464159]
+ Wanted to embed 1037 magnets embedded 1037 magnet
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along x.

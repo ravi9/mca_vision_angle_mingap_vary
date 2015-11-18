@@ -1,0 +1,36 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+img1 =
+
+204.pgm.atts
+
+
+img2 =
+
+216.pgm.atts
+
+
+minGap =
+
+    90
+
+
+startTime =
+
+12-Jul-2014 21:11:04
+
+## Starting Data/204.pgm.atts
+
+ 731 longest primitives returned (272 lines, 459 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 218.231565 (sec)
+ min and max values of the distance matrix [0.165583 0.464159]

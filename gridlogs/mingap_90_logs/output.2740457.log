@@ -1,0 +1,64 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+img1 =
+
+105.pgm.atts
+
+
+img2 =
+
+108.pgm.atts
+
+
+minGap =
+
+    90
+
+
+startTime =
+
+12-Jul-2014 21:11:04
+
+## Starting Data/105.pgm.atts
+
+ 544 longest primitives returned (247 lines, 297 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 152.072022 (sec)
+ min and max values of the distance matrix [0.150419 0.464159]
+ Wanted to embed 544 magnets embedded 544 magnet
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along x.
+ Time Taken = 0.382000 picoseconds
+ Relaxing nanodisk array with pi/4 orientation as initial states for all disks and external field along y.
+ Time Taken = 0.382000 picoseconds
+ Time taken by nanomagnet computing = 0.644138 (sec)
+ Detection Rate 0.870156 at 0.267973 false alarm
+startTime =
+
+12-Jul-2014 21:11:04
+
+
+endTIme =
+
+12-Jul-2014 21:17:20
+
+Elapsed time is 13.991777 seconds.
+
+startTime =
+
+12-Jul-2014 21:17:20
+
+## Starting Data/108.pgm.atts
+
+ 772 longest primitives returned (320 lines, 452 arcs read, but returning only 3000 max elements for computational reasons)
+
+ Time taken by traditional algorithm = 113.124445 (sec)
+ min and max values of the distance matrix [0.149737 0.464159]
